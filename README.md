@@ -4,16 +4,8 @@
 
 # Hi, I'm Max.
 
-**Staff Software Engineer · AI Systems & ML Infrastructure**  
-Miami, Florida · Carnegie Mellon CS
-
-I build the infrastructure that makes AI dependable in production: agent workflows that recover from failure, retrieval systems that preserve evidence, and inference services that respect latency and cost budgets.
-
-At **Google DeepMind**, I work on enterprise agent orchestration. Previously, I worked on large-model serving at **Google** and spent seven years at **Amazon**, moving from distributed backend services into personalization and shared ML infrastructure. I stay hands-on with implementation while defining interfaces and technical direction across teams.
-
+**Software Engineer · AI Systems & ML Infrastructure**  
 ## Selected projects
-
-Small tools and open-source labs for inspecting the systems behind reliable software.
 
 ### Agent execution, retrieval & inference
 
